@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Witcher\'s Drink Book</string>
+        <string-array name="description_options">
+            <item>Juice</item>
+            <item>Milk</item>
+            <item>Vodka</item>
+            <item>Beer</item>
+            <item>Wine</item>
+            <item>Water</item>
+            <item>Alchemical Ingredient</item>
+            <item>Potion</item>
+        </string-array>
+</resources>
