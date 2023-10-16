@@ -2,106 +2,141 @@
     {
         "name": "Бакалавр",
         "description": "Нервы",
-        "details": "Apple juice is a food and drink item. Five are given by the Old Woman as a reward during the quest \"A Frying Pan, Spick and Span\". It is also sold in various quantities by certain merchants:\n* 1 sold by Stjepan \n* 1 sold by the innkeep at The Golden Sturgeon\n* 10–20 sold by Marquise Serenity\n* 1 sold by the madame at Crippled Kate's\n* 1 sold by the innkeep at The Chameleon"
+        "details": "Даниил Данковский, известный как Бакалавр, — бакалавр медицинских наук, столичный учёный, основатель знаменитой «Танатики», один из трёх играбельных персонажей наравне с Гаруспиком и Самозванкой. Является главным героем DLC Мраморное гнездо."
     },
     {
-        "name": "Beauclair White",
-        "description": "Wine",
-        "details": "This wine can be looted from students from Oxenfurt Academy who are destroying roadside shrines in Velen."
+        "name": "Аглая Лилич",
+        "description": "Нервы",
+        "details": "Аглая Лилич — инквизитор, присланная в город из столицы для борьбы с эпидемией."
     },
     {
-        "name": "Chateau Mont Valjean",
-        "description": "Wine",
-        "details": "Chateau Mont Valjean is a wine available in the \"Blood and Wine\" expansion of The Witcher 3: Wild Hunt."
+        "name": "Самозванка",
+        "description": "Нервы",
+        "details": "Клара – также известная как Самозванка – загадочная молодая девочка утверждающая, что она может творить чудеса. Она является одним из трех игровых персонажей, на ряду с Бакалавром и Гаруспиком."
     },
     {
-        "name": "Count var Ochmann Shiraz",
-        "description": "Wine",
-        "details": "Count var Ochmann Shiraz is a wine available in the \"Blood and Wine\" expansion of The Witcher 3: Wild Hunt."
+        "name": "Петр Стаматин",
+        "description": "Нервы",
+        "details": "Петр Стаматин — столичный архитектор и создатель Многогранника. Младший брат-близнец Андрея Стаматина."
     },
     {
-        "name": "Cow's Milk",
-        "description": "Milk",
-        "details": "Cow's milk is a drink item in the original game. It can be used to regenerate endurance, especially when Geralt is low on potions."
+        "name": "Марк Бессмертник",
+        "description": "Нервы",
+        "details": "Марк Бессмертник – режиссер в городском Театре."
     },
     {
-        "name": "Dijkstra Dry",
-        "description": "Wine",
-        "details": "Dijkstra dry was a very sour, diluted wine given to death row prisoners in Drakenborg at the behest of the Head of the Redanian Secret Service, Sigismund Dijkstra. It can be purchased from the following merchants, both of whom have 5–10 bottles in stock:\n* Innkeep at Cunny of the Goose\n* Innkeep at The Seven Cats"
+        "name": "Анна Ангел",
+        "description": "Нервы",
+        "details": "Анна Ангел – молодая девушка, живущая в особняке Вербы, находящемся в восточной части города. Страдает агорафобией и имеет очень таинственное прошлое."
     },
     {
-        "name": "Erveluce",
-        "description": "Wine",
-        "details": "In The Witcher 3: Wild Hunt, Erveluce is a favorite wine of the nobles, particularly the Vegelbud and La Valette families. Erveluce is sold by the following merchants:\nInnkeep at the Rosemary and Thyme\nThe Madame at Crippled Kate's\nMarquise Serenity at the Passiflora\nMerchant in Claywich\nOlivier at the Kingfisher Inn"
+        "name": "Юлия Люричева",
+        "description": "Нервы",
+        "details": "Юлия Люричева – житель Города и архитектор дорожной системы. Рационалист и скептик; местные жители считают ее довольно фаталистичным человеком."
     },
     {
-        "name": "Fiorano",
-        "description": "Wine",
-        "details": "Fiorano is an expensive wine produced in Toussaint. The wine is aged in cellars of Castel Ravello, where the surrounding vineyards also produce Erveluce, Est Est and Pomino. It is also one of the wines available in the \"Blood and Wine\" expansion of The Witcher 3: Wild Hunt."
+        "name": "Мария Каина",
+        "description": "Нервы",
+        "details": "Мария Каина – старший ребенок Нины Каиной и Виктора Каина. После смерти своей матери она становится наследницей титула Алой Хозяйки."
     },
     {
-        "name": "White Wolf",
-        "description": "Wine",
-        "details": "This is one of three possible names Geralt can give to the wine produced at the Belgaard Vineyard, in his honor."
+        "name": "Ева Ян",
+        "description": "Нервы",
+        "details": "Ева Ян – владелица Омута, дома, в котором по прибытию в город останавливается Бакалавр."
     },
     {
-        "name": "Goat's Milk",
-        "description": "Milk",
-        "details": "Goat's milk is a drink item in the original game. It can be used to regenerate endurance, especially when Geralt is low on potions."
+        "name": "Младший Влад",
+        "description": "Нервы",
+        "details": "Младший Владислав Ольгимский, также известный как Младший Влад — старший ребёнок и наследник семейства Ольгимских."
     },
     {
-        "name": "Homemade Pepper Vodka",
-        "description": "Vodka",
-        "details": "In the main campaign for The Witcher 3: Wild Hunt, this item is rather rare. It can be obtained from Elsa. It is more plentiful in the \"Blood and Wine\" expansion."
+        "name": "Исидор Бурах",
+        "description": "Кровь",
+        "details": "Исидор Бурах был знахарем, менху и отцом Артемия Бураха."
     },
     {
-        "name": "Kaedweni Stout",
-        "description": "Beer",
-        "details": "Beer in The Witcher 3: Wild Hunt"
+        "name": "Станислав Рубин",
+        "description": "Кровь",
+        "details": "Станислав Рубин – верный ученик Исидора Бураха. После смерти своего учителя он становится единственным городским врачом."
     },
     {
-        "name": "Metinna Rose",
-        "description": "Wine",
-        "details": "Wine in The Witcher 3: Wild Hunt"
+        "name": "Спичка",
+        "description": "Кровь",
+        "details": "Спичка – мальчишка-сирота, лучше всех ориентирующийся в Городе и знающий множество его секретов."
     },
     {
-        "name": "Potion from Tir na Lia",
-        "description": "Potion",
-        "details": "Potion from The Witcher 3: Wild Hunt. Source: wild Hunt warriors and their ghosts"
+        "name": "Мишка",
+        "description": "Кровь",
+        "details": "Мишка – задумчивая и сварливая маленькая девочка. У нее часто бывают разные предчувствия, некоторые говорят, что она «дикая совсем, как зверюшка»."
     },
     {
-        "name": "Raspberry Juice",
-        "description": "Juice",
-        "details": "Raspberry juice is a drink item in the original game. It can be used to regenerate endurance, especially when Geralt is low on potions."
+        "name": "Капелла",
+        "description": "Кровь",
+        "details": "Виктория Ольгимская-младшая, также известная как Капелла, - младший ребенок в семье Ольгимских. После смерти матери она унаследовала титул Белой Хозяйки."
     },
     {
-        "name": "Redanian Lager",
-        "description": "Beer",
-        "details": "Beer in The Witcher 3: Wild Hunt"
+        "name": "Тая Тычик",
+        "description": "Кровь",
+        "details": "Дочка коменданта Термитника, степнячка. Энергичный и своенравный ребёнок."
     },
     {
-        "name": "Rivian Kriek",
-        "description": "Beer",
-        "details": "Beer in The Witcher 3: Wild Hunt"
+        "name": "Оспина",
+        "description": "Кровь",
+        "details": "Загадочное существо. Никто не знает, как Оспина появилась в городе. Большинство склоняется к тому, что она пришла из Степи и что она не человек, а дух — голем, созданный Степью."
     },
     {
-        "name": "Sansretour Chardonnay",
-        "description": "Wine",
-        "details": "Sansretour Chardonnay is a wine available in the \"Blood and Win\" expansion of The Witcher 3: Wild Hunt."
+        "name": "Ноткин",
+        "description": "Кровь",
+        "details": "Ноткин не так мрачен, как Хан. Он прямодушен, вспыльчив, но и отходчив, а по натуре скорее добр. Однако он осознаёт свою власть и связанную с ней ответственность."
     },
     {
-        "name": "Viziman Champion",
-        "description": "Beer",
-        "details": "Beer in The Witcher 3: Wild Hunt"
+        "name": "Лара Равель",
+        "description": "Кровь",
+        "details": "Это умная, самоотверженная и гордая девушка. Она недавно потеряла горячо любимого отца и до сих пор переживает утрату. Почти всегда смотрит прямо в глаза, не отводит — взгляд горящий, нервный, требовательный."
     },
     {
-        "name": "Water",
-        "description": "Water",
-        "details": "Just a water"
+        "name": "Каспар Каин",
+        "description": "Кровь",
+        "details": "Кай, Питер Пэн и даже чуточку Джоффри — но лишь чуточку. Недобрый, но вдохновенный и справедливый. Правит королевством детей в Многограннике и рисует его карту."
     },
     {
-        "name": "Vinegar",
-        "description": "Alchemical Ingredient",
-        "details": "Vinegar is an alchemical catalyst obtained from the carcasses of ghouls, alghouls, cemetaurs and graveirs."
-    }
+        "name": "Гриф",
+        "description": "Кровь",
+        "details": "Гриф мечтает, чтоб никто не смел ему приказывать (ни люди, ни степные чудища, например, коих он суеверно побаивается). Над врагом предпочтёт поглумиться, чем в самом деле надёжно с ним расправиться (не из гуманизма, а всё из той же любви к красоте)."
+    },
+    {
+        "name": "Георгий Каин",
+        "description": "Кости",
+        "details": "Георгий Каин — глава семейства Каиных и городской судья."
+    },
+    {
+        "name": "Катерина Сабурова",
+        "description": "Кости",
+        "details": "Главная правительница и пророчица (по статусу), по сути — самозванка, человек не на своем месте."
+    },
+    {
+        "name": "Виктор Каин",
+        "description": "Кости",
+        "details": "Виктор Каин – старший семьи Каинов и муж покойной Нины Каиной."
+    },
+    {
+        "name": "Александр Сабуров",
+        "description": "Кости",
+        "details": "Александр Сабуров-муж Катерины Сабуровой, отвечает за порядок в городе и уголовное преследование."
+    },
+    {
+        "name": "Оюн",
+        "description": "Кости",
+        "details": "Это могучий, огромный человек с недюжинной выдержкой. Далеко не глуп, но ограничен. Его ум ленив, ему не хватает воображения. В глубине души он растерян, чувствует свое бессилие перед Ольгимскими и перед временем."
+    },
+    {
+        "name": "Тяжелый Влад",
+        "description": "Кости",
+        "details": "Огромный, могучий, страшный человек, владелец Проекта Быков — всего городского производства."
+    },
+    {
+        "name": "Тяжелый Влад",
+        "description": "Кости",
+        "details": "Огромный, могучий, страшный человек, владелец Проекта Быков — всего городского производства."
+    },
 ]
