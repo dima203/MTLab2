@@ -14,7 +14,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="4dp"
-        android:text="Дубяга Александр АС-59, БрГТУ, 2023"
+        android:text="Качан Дмитрий АС-59, БрГТУ, 2023"
         android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -25,29 +25,38 @@
         android:id="@+id/startButton"
         android:layout_width="222dp"
         android:layout_height="60dp"
-        android:layout_marginTop="416dp"
+        android:layout_marginTop="100dp"
         android:background="@android:color/transparent"
-        android:fontFamily="@font/font2"
+        android:fontFamily="sans-serif-medium"
         android:text="Start"
         android:textColor="@color/black"
         android:textSize="35sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toBottomOf="@+id/imageView" />
 
     <Button
         android:id="@+id/exitButton"
         android:layout_width="222dp"
         android:layout_height="60dp"
         android:layout_marginTop="20dp"
-        android:text="Exit"
         android:background="@android:color/transparent"
-        android:fontFamily="@font/font2"
+        android:fontFamily="sans-serif-medium"
+        android:text="Exit"
         android:textColor="@color/black"
         android:textSize="35sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/startButton" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="353dp"
+        android:layout_height="225dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/logo" />
 </androidx.constraintlayout.widget.ConstraintLayout>

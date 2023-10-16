@@ -17,14 +17,9 @@ public class ItemAdapter extends RecyclerView.Adapter<ItemAdapter.ViewHolder> {
     private Hashtable<String, Integer> itemsBackground = new Hashtable<>();
 
     public ItemAdapter(List<Item> itemList) {
-        itemsBackground.put("Juice", R.drawable.juice_background);
-        itemsBackground.put("Wine", R.drawable.wine_background);
-        itemsBackground.put("Milk", R.drawable.milk_background);
-        itemsBackground.put("Vodka", R.drawable.vodka_background);
-        itemsBackground.put("Beer", R.drawable.beer_background);
-        itemsBackground.put("Potion", R.drawable.potion_background);
-        itemsBackground.put("Water", R.drawable.water_background);
-        itemsBackground.put("Alchemical Ingredient", R.drawable.alchemical_background);
+        itemsBackground.put("Нервы", R.drawable.nerves_background);
+        itemsBackground.put("Кровь", R.drawable.blood_background);
+        itemsBackground.put("Кости", R.drawable.bones_background);
         this.itemList = itemList;
     }
 
@@ -67,9 +62,6 @@ public class ItemAdapter extends RecyclerView.Adapter<ItemAdapter.ViewHolder> {
             holder.descriptionTextView.setTextColor(ContextCompat.getColor(holder.itemView.getContext(), R.color.white));
         }
     }
-
-
-
 
     @Override
     public int getItemCount() {
