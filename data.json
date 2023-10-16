@@ -1,0 +1,107 @@
+[
+    {
+        "name": "Apple Juice",
+        "description": "Juice",
+        "details": "Apple juice is a food and drink item. Five are given by the Old Woman as a reward during the quest \"A Frying Pan, Spick and Span\". It is also sold in various quantities by certain merchants:\n* 1 sold by Stjepan \n* 1 sold by the innkeep at The Golden Sturgeon\n* 10–20 sold by Marquise Serenity\n* 1 sold by the madame at Crippled Kate's\n* 1 sold by the innkeep at The Chameleon"
+    },
+    {
+        "name": "Beauclair White",
+        "description": "Wine",
+        "details": "This wine can be looted from students from Oxenfurt Academy who are destroying roadside shrines in Velen."
+    },
+    {
+        "name": "Chateau Mont Valjean",
+        "description": "Wine",
+        "details": "Chateau Mont Valjean is a wine available in the \"Blood and Wine\" expansion of The Witcher 3: Wild Hunt."
+    },
+    {
+        "name": "Count var Ochmann Shiraz",
+        "description": "Wine",
+        "details": "Count var Ochmann Shiraz is a wine available in the \"Blood and Wine\" expansion of The Witcher 3: Wild Hunt."
+    },
+    {
+        "name": "Cow's Milk",
+        "description": "Milk",
+        "details": "Cow's milk is a drink item in the original game. It can be used to regenerate endurance, especially when Geralt is low on potions."
+    },
+    {
+        "name": "Dijkstra Dry",
+        "description": "Wine",
+        "details": "Dijkstra dry was a very sour, diluted wine given to death row prisoners in Drakenborg at the behest of the Head of the Redanian Secret Service, Sigismund Dijkstra. It can be purchased from the following merchants, both of whom have 5–10 bottles in stock:\n* Innkeep at Cunny of the Goose\n* Innkeep at The Seven Cats"
+    },
+    {
+        "name": "Erveluce",
+        "description": "Wine",
+        "details": "In The Witcher 3: Wild Hunt, Erveluce is a favorite wine of the nobles, particularly the Vegelbud and La Valette families. Erveluce is sold by the following merchants:\nInnkeep at the Rosemary and Thyme\nThe Madame at Crippled Kate's\nMarquise Serenity at the Passiflora\nMerchant in Claywich\nOlivier at the Kingfisher Inn"
+    },
+    {
+        "name": "Fiorano",
+        "description": "Wine",
+        "details": "Fiorano is an expensive wine produced in Toussaint. The wine is aged in cellars of Castel Ravello, where the surrounding vineyards also produce Erveluce, Est Est and Pomino. It is also one of the wines available in the \"Blood and Wine\" expansion of The Witcher 3: Wild Hunt."
+    },
+    {
+        "name": "White Wolf",
+        "description": "Wine",
+        "details": "This is one of three possible names Geralt can give to the wine produced at the Belgaard Vineyard, in his honor."
+    },
+    {
+        "name": "Goat's Milk",
+        "description": "Milk",
+        "details": "Goat's milk is a drink item in the original game. It can be used to regenerate endurance, especially when Geralt is low on potions."
+    },
+    {
+        "name": "Homemade Pepper Vodka",
+        "description": "Vodka",
+        "details": "In the main campaign for The Witcher 3: Wild Hunt, this item is rather rare. It can be obtained from Elsa. It is more plentiful in the \"Blood and Wine\" expansion."
+    },
+    {
+        "name": "Kaedweni Stout",
+        "description": "Beer",
+        "details": "Beer in The Witcher 3: Wild Hunt"
+    },
+    {
+        "name": "Metinna Rose",
+        "description": "Wine",
+        "details": "Wine in The Witcher 3: Wild Hunt"
+    },
+    {
+        "name": "Potion from Tir na Lia",
+        "description": "Potion",
+        "details": "Potion from The Witcher 3: Wild Hunt. Source: wild Hunt warriors and their ghosts"
+    },
+    {
+        "name": "Raspberry Juice",
+        "description": "Juice",
+        "details": "Raspberry juice is a drink item in the original game. It can be used to regenerate endurance, especially when Geralt is low on potions."
+    },
+    {
+        "name": "Redanian Lager",
+        "description": "Beer",
+        "details": "Beer in The Witcher 3: Wild Hunt"
+    },
+    {
+        "name": "Rivian Kriek",
+        "description": "Beer",
+        "details": "Beer in The Witcher 3: Wild Hunt"
+    },
+    {
+        "name": "Sansretour Chardonnay",
+        "description": "Wine",
+        "details": "Sansretour Chardonnay is a wine available in the \"Blood and Win\" expansion of The Witcher 3: Wild Hunt."
+    },
+    {
+        "name": "Viziman Champion",
+        "description": "Beer",
+        "details": "Beer in The Witcher 3: Wild Hunt"
+    },
+    {
+        "name": "Water",
+        "description": "Water",
+        "details": "Just a water"
+    },
+    {
+        "name": "Vinegar",
+        "description": "Alchemical Ingredient",
+        "details": "Vinegar is an alchemical catalyst obtained from the carcasses of ghouls, alghouls, cemetaurs and graveirs."
+    }
+]
